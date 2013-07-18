@@ -1,7 +1,8 @@
 body {
-    background-color: DimGray;
+    background-color: DarkSeaGreen;
 }
 
 h1 {
-  color: Aqua;
+  color: DeepPink;
+  
 }  
